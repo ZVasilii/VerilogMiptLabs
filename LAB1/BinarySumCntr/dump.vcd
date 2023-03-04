@@ -1,5 +1,5 @@
 $date
-	Fri Feb 10 23:43:00 2023
+	Thu Mar  2 01:46:25 2023
 $end
 $version
 	Icarus Verilog
@@ -14,7 +14,7 @@ $var wire 1 # CEO $end
 $var reg 1 $ ce $end
 $var reg 1 % clk $end
 $var reg 1 & s $end
-$scope module subCntr1 $end
+$scope module SubCntr $end
 $var wire 1 # CEO $end
 $var wire 1 $ ce $end
 $var wire 1 % clk $end
